@@ -7,7 +7,7 @@
 
 
 ## 📸 INTERNSHIP COMPLETION CERTIFICATE
-![INTERNSHIP COMPLETION CERTIFICATE](assets/certificate.png)
+![VIEW CERTIFICATE](assets/certificate.png)
 
 
 ## 📄 TASK LEVELS ( PDF )
