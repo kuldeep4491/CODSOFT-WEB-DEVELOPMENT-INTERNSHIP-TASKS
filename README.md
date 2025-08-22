@@ -10,7 +10,7 @@
 This repository contains my completed tasks for the CodSoft Web Development Internship.
 
 ## 📄 TASK LEVELS ( PDF )
-[Download PDF](CodSoft_Report.pdf)
+[Download PDF](https://drive.google.com/file/d/1lFuM9S83TO85kGVywErYpCISmf_kW3Q9/view?usp=drive_link)
 
           
 
