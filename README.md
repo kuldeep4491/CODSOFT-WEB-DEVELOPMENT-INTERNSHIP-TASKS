@@ -1,22 +1,25 @@
 # CODSOFT WEB DEVELOPMENT INTERNSHIP TASKS  
 
+
 💻 BATCH : **AUGUST 2025 ( B44 )**  
 📅 INTERNSHIP START DATE : ***05 AUGUST 2025***  
 📅 INTERNSHIP END DATE : ***05 SEPTEMBER 2025***
 
-## 📸 INTERNSHIP COMPLETION CERTIFICATE
-![Internship Certificate](assets/certificate.png)
 
-This repository contains my completed tasks for the CodSoft Web Development Internship.
+## 📸 INTERNSHIP COMPLETION CERTIFICATE
+![INTERNSHIP COMPLETION CERTIFICATE](assets/certificate.png)
+
 
 ## 📄 TASK LEVELS ( PDF )
-[Download PDF](https://drive.google.com/file/d/1lFuM9S83TO85kGVywErYpCISmf_kW3Q9/view?usp=drive_link)
-
-          
+[VIEW PDF](https://drive.google.com/file/d/1lFuM9S83TO85kGVywErYpCISmf_kW3Q9/view?usp=drive_link)
 
 
-## 🚀 LIVE PROJECT LINKS
-
+## 🚀 LIVE PROJECT LINKS :-
 - [Task 1 - VCard Portfolio](https://urr-kuldeep2.netlify.app/)
 - [Task 2 - Landing Page](https://codsofttask2landingpage.netlify.app/)
 - [Task 3 - Calculator](https://codsofttask3calculator.netlify.app/)
+
+---
+
+> 📝 **NOTE :**  
+> THIS REPOSITORY CONTAINS ALL THE 3 TASKS OF LEVEL 1 , FOR CODSOFT WEB DEVELOP INTERNSHIP .
