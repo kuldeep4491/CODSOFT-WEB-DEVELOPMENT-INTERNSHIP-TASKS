@@ -10,7 +10,7 @@
 ![VIEW CERTIFICATE](
 ## 📸 INTERNSHIP COMPLETION CERTIFICATE
 ![VIEW CERTIFICATE](https://raw.githubusercontent.com/kuldeep4491/CODSOFT-WEB-DEVELOPMENT-INTERNSHIP-TASKS/main/TASK%202%20-%20LANDING%20PAGE/src/assets/certificate.jpg
-))
+)
 
 
 ## 📄 TASK LEVELS ( PDF )
